@@ -13,7 +13,8 @@ O portfólio possui as seguintes seções:
 - React: Utilizado para criar uma interface de usuário interativa e dinâmica.
 - Tailwind CSS: Framework de estilização utilizado para um desenvolvimento rápido e responsivo.
 - JavaScript: Linguagem de programação utilizada para a lógica do projeto.
-- HTML5 e CSS3: Utilizados para a estruturação e estilização das páginas.
+- emailJS: Biblioteca que permite enviar e-mails usando apenas o client-side, sem a necessidade de um servidor.
+
 #
 ## Instalação
 - Faça o clone deste repositório para sua máquina local.
