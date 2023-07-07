@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+## Portfólio em React e Tailwind
+Este projeto é um portfólio pessoal desenvolvido em React e estilizado com Tailwind CSS. O objetivo do portfólio é exibir meu trabalho e habilidades como desenvolvedor front-end. Nele inclui seções como Sobre Mim, Tecnologias, Projetos e Contato, permitindo aos visitantes conhecer meu perfil profissional, explorar projetos anteriores e entrar em contato comigo através de e-mail ou redes sociais. Utilizei o React para criar uma experiência interativa e dinâmica, enquanto o Tailwind CSS ajudou a estilizar de forma eficiente e responsiva. Sinta-se à vontade para explorar o código-fonte e adaptá-lo ao seu próprio portfólio.
+#
+## Funcionalidades
+O portfólio possui as seguintes seções:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Sobre Mim: Apresentação pessoal, incluindo informações sobre minha experiência e habilidades.
+- Tecnologias: Algumas tecnologias que uso em estudos e projetos.
+- Projetos: Exibição de projetos concluídos, incluindo descrições, capturas de tela e links para os repositórios ou demonstrações.
+- Contato: Formulário de contato para os visitantes entrarem em contato comigo.
+#
+## Tecnologias Utilizadas
+- React: Utilizado para criar uma interface de usuário interativa e dinâmica.
+- Tailwind CSS: Framework de estilização utilizado para um desenvolvimento rápido e responsivo.
+- JavaScript: Linguagem de programação utilizada para a lógica do projeto.
+- emailJS: Biblioteca que permite enviar e-mails usando apenas o client-side, sem a necessidade de um servidor.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#
+## Instalação
+- Faça o clone deste repositório para sua máquina local.
+- No diretório raiz do projeto, execute o comando npm install para instalar as dependências.
+- Em seguida, execute o comando npm start para iniciar o servidor de desenvolvimento.
+= Abra seu navegador e acesse http://localhost:3000 para visualizar o portfolio.
+#
+## Contribuição
+Contribuições e sugestões são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues caso encontre algum problema ou queira propor melhorias.
+#
